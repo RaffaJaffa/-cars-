@@ -81,7 +81,7 @@
       <frequency value="50" />
       <swankness>SWANKNESS_2</swankness>
       <maxNum value="20" />
-      <flags>FLAG_SPORTS FLAG_HAS_LIVERY</flags>
+      <flags>FLAG_SPORTS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_BANSHEE</dashboardType>
