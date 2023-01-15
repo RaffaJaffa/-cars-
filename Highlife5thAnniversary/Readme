@@ -21,7 +21,7 @@ pgt322 - Porsche 911 GT3
 cullinanbb - Rolls Royce Cullinan 
 NIS13 - Nissan Silvia S13
 gxs14 - Nissan Silvia S14 Zenki
-
+yosemite3
 
 
 
@@ -29,3 +29,10 @@ Vehicle Changes:
 
 Buffalo4 - Removed guns, Mines, Armor Plating
 Revolter - Removed guns
+
+Issues:
+
+Window tint - pgt322(front windshield, headlights), hna2t(headlights), gxs14(brake lights middle.), Cullinan(brake lights)
+
+
+Missing parts - mk2100 (missing engine when stock, modelled as a tunable)
