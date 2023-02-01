@@ -53,15 +53,15 @@
 			<damageMapScale value="0.500000" />
 			<damageOffsetScale value="0.500000" />
 			<diffuseTint value="0x00FFFFFF" />
-			<steerWheelMult value="0.400000" />
+			<steerWheelMult value="1.00000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        70.000000	
-        140.000000	
-        300.000000	
-        300.000000
+      		550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.871" />
 			<identicalModelSpawnDistance value="20" />
@@ -161,16 +161,16 @@
 			<damageMapScale value="0.800000" />
 			<damageOffsetScale value="0.600000" />
 			<diffuseTint value="0x00FFFFFF" />
-			<steerWheelMult value="1.000000" />
+			<steerWheelMult value="1.0000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        350.000000
-        350.000000
-        60.000000	
-        120.000000	
-        500.000000	
-        500.000000
-      </lodDistances>
+        	550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+      	</lodDistances>
 			<minSeatHeight value="0.821" />
 			<identicalModelSpawnDistance value="20" />
 			<maxNumOfSameColor value="10" />
@@ -285,12 +285,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        15.000000
-        35.000000
-        65.000000
-        130.000000
-        500.000000
-        500.000000
+        	550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.896" />
 			<identicalModelSpawnDistance value="20" />
@@ -396,12 +396,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        70.000000	
-        140.000000	
-        300.000000	
-        300.000000
+        	550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<identicalModelSpawnDistance value="20" />
 			<maxNumOfSameColor value="1" />
@@ -506,12 +506,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        65.000000	
-        130.000000	
-        500.000000	
-        500.000000
+        	550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.881" />
 			<identicalModelSpawnDistance value="20" />
@@ -615,12 +615,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        65.000000	
-        130.000000	
-        500.000000	
-        500.000000
+      		550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.881" />
 			<identicalModelSpawnDistance value="20" />
@@ -725,12 +725,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        350.000000
-        350.000000
-        60.000000	
-        120.000000	
-        500.000000	
-        500.000000
+      		550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.821" />
 			<identicalModelSpawnDistance value="20" />
@@ -846,12 +846,12 @@
 			<steerWheelMult value="1.000000" />
 			<HDTextureDist value="5.000000" />
 			<lodDistances content="float_array">
-        500.000000
-        500.000000
-        500.000000
-        500.000000
-        500.000000
-        500.000000
+        	550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
+			550.000000
       </lodDistances>
 			<minSeatHeight value="0.83" />
 			<identicalModelSpawnDistance value="20" />
