@@ -449,7 +449,7 @@
 		<Item>
 			<modelName>hna2t</modelName>
 			<txdName>hna2t</txdName>
-			<handlingId>NSX</handlingId>
+			<handlingId>hna2t</handlingId>
 			<gameName>nsx</gameName>
 			<vehicleMakeName>Honda</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
